@@ -8,6 +8,10 @@ body {
 	font-family: sans-serif;
 	line-height: 1.6;
 }
+main, header {
+	max-width: 40rem;
+	margin: 0 auto;
+}
 h1,h2,h3 {
 	line-height: 1.2;
 }
